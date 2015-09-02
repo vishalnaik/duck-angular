@@ -1,4 +1,4 @@
-duck-angular
+duck-angular [![Build Status](https://snap-ci.com/vishalnaik/duck-angular/branch/master/build_image)](https://snap-ci.com/vishalnaik/duck-angular/branch/master)
 ============
 
 Guides to use this are at:
